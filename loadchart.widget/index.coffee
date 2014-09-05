@@ -128,7 +128,7 @@ style: """
     font-size 10px
     text-align center
     display block
-    font-family Menlo
+    font-family: Avenir Next, Helvetica Neue
     border-left 3px solid rgb(255,255,255)
     width 5px
     bottom 0
